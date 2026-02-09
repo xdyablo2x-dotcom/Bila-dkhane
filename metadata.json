@@ -1,0 +1,7 @@
+{
+  "name": "Bila Dkhane ",
+  "description": "Assistant de sevrage tabagique par IA tactique et coaching vocal temps réel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
